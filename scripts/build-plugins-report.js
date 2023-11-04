@@ -54,7 +54,7 @@ function findLatestValidCommit(commits, directoryPath) {
     // exclude core maintainers' commits
     if (
       [
-        'ben@blam.sh',
+        'dimag@blam.sh',
         'freben@gmail.com',
         'poldsberg@gmail.com',
         'johan.haals@gmail.com',
